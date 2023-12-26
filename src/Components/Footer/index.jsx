@@ -22,7 +22,7 @@ const FooterComponent = ()=>{
                                     </a>
                                 </li>
                                 <li>
-                                    <a rel="noreferrer" href="https://www.instagram.com/_vishal_kr_?igsh=OGQ5ZDc2ODk2ZA==" target="_blank">
+                                    <a rel="noreferrer" href="https://www.instagram.com/__vishal_kr__?igsh=OGQ5ZDc2ODk2ZA==" target="_blank">
                                         <BsInstagram />
                                     </a>
                                 </li>
