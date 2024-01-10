@@ -17,7 +17,7 @@ const FooterComponent = ()=>{
                             <ul className='socialIconsList'>
                              
                                 <li>
-                                    <a rel="noreferrer" href="https://www.linkedin.https://www.linkedin.com/in/vishal-kumar-288269228" target="_blank">
+                                    <a rel="noreferrer" href="https://www.linkedin.com/in/vishal-kumar-288269228/" target="_blank">
                                         <BsLinkedin />
                                     </a>
                                 </li>
